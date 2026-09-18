@@ -20,7 +20,7 @@ Kabadiwala Connect is a simple mobile platform designed to help informal e-waste
 
 **Photo → Identify → Get Fair Price → Find Recycler → Choose Offer → Handover → Payment → Digital Record**
 
-## 🎯 Our Goal
+# 🎯 Our Goal
 
 To bring informal e-waste collectors into the formal recycling system while making recycling **safer, fairer, and more transparent**.
 
